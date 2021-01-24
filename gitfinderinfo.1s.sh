@@ -4,9 +4,9 @@
 # <bitbar.version>v1.0</bitbar.version>
 # <bitbar.author>Miguel Carvalho</bitbar.author>
 # <bitbar.author.github>mmcarvalho</bitbar.author.github>
-# <bitbar.desc>Displays the git branch in the currently focused finder Window. On menu bar menu, Lists all finder windows with active git projects like 'branch name (project name)'. </bitbar.desc>
-# <bitbar.image></bitbar.image>
-# <bitbar.abouturl></bitbar.abouturl>
+# <bitbar.desc>Displays the active git branch of the focused finder Window in the menu bar. When open, lists all finder windows with active git projects.</bitbar.desc>
+# <bitbar.image>https://raw.githubusercontent.com/mmcarvalho/git-finder-info/main/gitfinderinfo-screenshot.png</bitbar.image>
+# <bitbar.abouturl>https://github.com/mmcarvalho/git-finder-info</bitbar.abouturl>
 #
 # Dependencies: none.
 
